@@ -1,0 +1,7 @@
+NOSSO CANTINHO ❤️
+
+1. Abre index.html para experimentar a interface.
+2. Para publicar, envia os ficheiros para a raiz do teu repositório e ativa GitHub Pages.
+3. Lê SETUP.md antes de configurares o backend.
+
+Atenção: o modo local não sincroniza entre dispositivos. O chat privado requer autenticação, políticas RLS e armazenamento seguro configurados no Supabase.
